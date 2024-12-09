@@ -4,7 +4,7 @@ Part 1 is Object Detection
 Using YOLO, R-CNN, and SSD to detect objects among 9 images. Each model's performance is evaluated based on inference time, number of objects detected, and object labels assigned.
 File Names:
 YOLO.ipynb
-R-CNN.ipynb
+RCNN.ipynb
 SSD.ipynb
 
 Part 2 is Scene Analysis
